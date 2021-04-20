@@ -6,4 +6,6 @@ Sedat Unal
 
 This project is a starting point for a Flutter application.
 
-![alt text](https://sedatunal.net/github/1.png)
+![alt text](http://almhizlituketim.com/github/1.png)
+![alt text](http://almhizlituketim.com/github/2.png)
+![alt text](http://almhizlituketim.com/github/3.png)
